@@ -1,6 +1,6 @@
 # 1. Домашнее задание к лекции «Компоненты»
 
-[[GithubPages](https://igor-chazov.github.io/ra-hw-1_components_3-calendar)]
+[![Build status](https://ci.appveyor.com/api/projects/status/0wi7pu4u41i56laj?svg=true)](https://ci.appveyor.com/project/igor-chazov/ra-hw-1-components-3-calendar) [[GithubPages](https://igor-chazov.github.io/ra-hw-1_components_3-calendar)]
 
 ## 1.3 Календарь
 
