@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-hw-1_components_3-calendar/static/css/main.388f02b6.css",
+    "main.js": "/ra-hw-1_components_3-calendar/static/js/main.0eca7ee3.js",
+    "index.html": "/ra-hw-1_components_3-calendar/index.html",
+    "main.388f02b6.css.map": "/ra-hw-1_components_3-calendar/static/css/main.388f02b6.css.map",
+    "main.0eca7ee3.js.map": "/ra-hw-1_components_3-calendar/static/js/main.0eca7ee3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.388f02b6.css",
+    "static/js/main.0eca7ee3.js"
+  ]
+}
